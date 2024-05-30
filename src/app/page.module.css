@@ -1,4 +1,10 @@
 
+.main{
+  height: 100vh;
+  background-color: white;
+}
+
+
 
 .style{
   color: rgb(11, 108, 76);
